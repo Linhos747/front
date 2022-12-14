@@ -1,0 +1,49 @@
+
+.intro{
+    background-color: black;
+    -webkit-text-fill-color: antiquewhite;
+}
+
+.dados{
+    background-color: white;
+    -webkit-text-fill-color: black;
+    padding: 20px;
+}
+
+.itens{
+    -webkit-text-fill-color: green;
+    font-size: 20px ;
+}
+
+
+.titulocentro {
+    text-align: center;
+    font-size: larger;
+    font-style: bold;
+}
+
+.tituloprincipal{
+    padding-left: 50px;
+}
+
+#nome {
+    font-size: medium;
+    -webkit-text-fill-color: aquamarine;
+}
+
+#painel{
+    width: auto;
+    height: auto;
+}
+
+#pc{
+    width: 50%;
+    height: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    height: 40%;
+}
