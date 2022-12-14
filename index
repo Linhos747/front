@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Portifólio</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1 class="tituloprincipal">Portifólio Lins</h1>
+    </header>
+    <img id="painel" src="painel.png">
+    <div class="intro">
+        <h2 class="titulocentro"> Apresentação</h2>
+        <p>Oi eu sou <strong id="nome">Nathan</strong></p>
+        <p>E este é meu <em>protótipo de portifólio</em></p>
+    </div>
+    <div class="dados">
+        <h3 class="titulocentro">Dados</h3>
+        <ul>
+            <li class="itens">
+                Nome :Nathan
+            </li>
+            <li class="itens">
+                Meta: Estágio
+            </li class="itens">
+            <li class="itens">
+                Período: 5
+            </li>
+        </ul>
+        <img id="pc" src="pc.png">
+    </div>
+</body>
+</html>
