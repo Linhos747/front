@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Formação</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="formação.css">
+</head>
+
+<body>
+    <header>
+        <div class="caixa">
+            <h1><img src="estudo.png"></h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="formação.html">Jornada</a></li>
+                    <li><a href="contatos.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <ul class="blocos">
+            <li>
+                <h2> Projetos</h2>
+                <img src="projeto.png">
+                <p> Tudo que aprendi e coloquei em prática</p>
+                <p><a href="https://github.com/Linhos747" target="_blank"><button class="scale-up-center">Ver</button></a></p>
+            </li>
+            <li>
+                <h2> Certificações</h2>
+                <img src="certificado.png">
+                <p> Capacitação Comprovada</p>
+                <p><a href="https://cursos.alura.com.br/user/nathan747" target="_blank"><button class="scale-up-center">Ver</button></a></p>
+            </li>
+            <li>
+                <h2> Contatos</h2>
+                <img src="objetivos.png">
+                <p> Para mais informações</p>
+                <p><a href="https://www.linkedin.com/in/nathan-lins-rodrigues-713b9616b" target="_blank"><button class="scale-up-center">Ver</button></a></p>
+
+            </li>
+            
+        </ul>
+
+    </main>
+</body>
+
+</html>
