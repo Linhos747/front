@@ -1,21 +1,26 @@
 header {
     background-color: gray;
     padding: 20px 0px;
+
 }
 
 .caixa {
     position: relative;
     width: 940px;
     margin: 0px auto;
-    height: 200px;
+    height: 150px;
+}
 
+.caixa h1{
+    display: inline;
 }
 
 .caixa img{
     position: relative;
     width: 80px;
     height: 80px;
-
+    display: inline;
+    padding-left: 30px ;
 }
 
 .blocos {
@@ -163,18 +168,18 @@ nav a {
 
 footer{
     text-align: center;
+    height: 205px;
     background: url("bg.png");
-    padding: 13px 0px;
     
 }
 
 .copyright{
     color: azure;
-    padding: 6px;
+    padding-top: 20px;
     font-size: 15px;
 }
 
 footer img{
-    padding: 10px;
+    padding-top: 50px;
     width: 80px;
 }
