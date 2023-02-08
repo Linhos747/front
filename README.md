@@ -1,3 +1,3 @@
-# front
-aplicação do meu estudo de html ao criar meu portifílio
+# Portifólio
+Usando de css e html estou criando o meu primeiro projeto, um portifólio para facilitar o contato comigo.
 
